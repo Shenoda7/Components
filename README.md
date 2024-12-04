@@ -3,3 +3,6 @@
 
 # Carousel
 ![image](https://github.com/user-attachments/assets/f96d22c3-426c-4b28-a2da-e3bc7037f36c)
+
+# Table
+![image](https://github.com/user-attachments/assets/492f95d7-0e82-4105-afc5-295a8fe7b6b0)
