@@ -6,3 +6,6 @@
 
 # Table
 ![image](https://github.com/user-attachments/assets/492f95d7-0e82-4105-afc5-295a8fe7b6b0)
+
+# Pagination
+![image](https://github.com/user-attachments/assets/190a6e79-2acf-4f7d-9f23-6eb766f26b93)
