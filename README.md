@@ -9,3 +9,7 @@
 
 # Pagination
 ![image](https://github.com/user-attachments/assets/190a6e79-2acf-4f7d-9f23-6eb766f26b93)
+
+# Hero Section
+![Screenshot from 2024-12-05 13-14-30](https://github.com/user-attachments/assets/cb76b4be-d9c5-4747-9dff-0c669af5933f)
+![image](https://github.com/user-attachments/assets/51602c93-682a-430d-ba60-fffff012b719)
