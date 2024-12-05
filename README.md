@@ -15,3 +15,6 @@
 ![image](https://github.com/user-attachments/assets/51602c93-682a-430d-ba60-fffff012b719)
 ## Updated Hero Section (Button Update)
 https://github.com/user-attachments/assets/387c9e3f-b841-4250-a562-ef69225445b1
+
+# Grid Layout
+https://github.com/user-attachments/assets/3c0444d8-a57d-4419-92a7-5bb4b23f3410
