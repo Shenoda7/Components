@@ -13,3 +13,5 @@
 # Hero Section
 ![Screenshot from 2024-12-05 13-14-30](https://github.com/user-attachments/assets/cb76b4be-d9c5-4747-9dff-0c669af5933f)
 ![image](https://github.com/user-attachments/assets/51602c93-682a-430d-ba60-fffff012b719)
+## Updated Hero Section (Button Update)
+https://github.com/user-attachments/assets/387c9e3f-b841-4250-a562-ef69225445b1
